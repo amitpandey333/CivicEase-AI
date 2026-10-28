@@ -72,7 +72,7 @@ The frontend can be built using `npm run build` and published from `dist`. The A
 1. Explain the included/sample government notice.
 2. Compare the extracted details with the original notice.
 3. Open **Application Checklist**, tick a few items, and show progress.
-4. Create a demo streetlight or road-damage complaint in **Complaint Tracker** and advance its simulated status.
+4. Create a demo -> streetlight or road-damage complaint in **Complaint Tracker** and advance its simulated status.
 5. Open **Insights Dashboard** to show counts and breakdowns based on local demo data.
 
 ## Limitations and responsible use
@@ -91,3 +91,4 @@ The frontend can be built using `npm run build` and published from `dist`. The A
 - **Hackathon:** Engage 6.0
 - **Theme:** Better Communities, Better Governance
 - **Team:** Ctrl Alt Elite
+  
